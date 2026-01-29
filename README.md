@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠 Languages & Tools (Dark-Mode Friendly)
+## 🛠 Languages & Tools  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,nodejs,express,mongodb,git,github,vscode&theme=dark" />
 </p>
@@ -66,7 +66,3 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
-<p align="center">
-  <img src="https://github.com/sushankrana5/sushankrana5/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
