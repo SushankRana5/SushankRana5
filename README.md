@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushank Rana</h1>
-<h3 align="center">A passionate full-stack developer from Nepal 🇳🇵</h3>
+<h3 align="center">A passionate developer from Nepal 🇳🇵</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sushankrana5&label=Profile%20views&color=0e75b6&style=flat" alt="sushankrana5" />
@@ -8,43 +8,44 @@
 ---
 
 ## 🚀 About Me
-- 💻 I enjoy building **real-world web applications** and backend systems  
-- 🌱 Strong interest in **backend development & system design**  
-- 🧩 I like solving problems on **LeetCode** and improving logic  
-- 🎯 Focused on writing **clean, scalable, and maintainable code**  
+- 💻 I enjoy building **real-world applications** and backend systems  
+- 🧩 Strong with **C & C++** for logic and problem solving  
+- 🌐 Build clean frontends using **HTML, CSS, and JavaScript**  
+- 🚀 Create backend APIs using **Express.js**  
+- 🎯 Focused on fundamentals, clean code, and consistency  
 - 🇳🇵 Based in Nepal, aiming global 🌍  
 
 ---
 
 ## 🧠 Current Learning & Goals
-- 📌 Deepening **Node.js & Express** fundamentals  
-- 📌 Working with **MongoDB & REST APIs**  
-- 📌 Improving **DSA & problem-solving skills**  
-- 📌 Exploring **authentication, security & backend architecture**  
-- 🚀 Goal: Become a **job-ready backend / full-stack developer**
+- 📌 Strengthening **C & C++ problem-solving skills**  
+- 📌 Writing better **JavaScript logic**  
+- 📌 Building REST APIs with **Express.js**  
+- 📌 Understanding backend structure & authentication  
+- 🚀 Goal: Become a **strong backend / system-oriented developer**
 
 ---
 
-## 🛠 Languages & Tools  
+## 🛠 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,nodejs,express,mongodb,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,express&theme=dark" />
 </p>
 
 ---
 
 ## 📌 Pinned Projects
-> Some of the projects I’m actively working on or proud of:
+> A few projects I’m actively working on or proud of:
 
 - 🔐 **Lost & Found Management System**  
-  _Full-stack system with authentication & database integration_
+  _Backend-focused project with authentication and database integration_
 
 - 🌐 **Campus Login Dashboard**  
-  _Static frontend + backend integration using Node.js_
+  _Frontend + backend integration using Express.js_
 
-- 🧠 **DSA Practice Repository**  
-  _Problem solving using C/C++ & JavaScript_
+- 🧠 **DSA Practice (C/C++)**  
+  _Problem solving and logic building_
 
-👉 Check my repositories for more!
+👉 Explore my repositories for more projects.
 
 ---
 
@@ -63,7 +64,3 @@
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="40"/>
   </a>
 </p>
-
-
----
-
