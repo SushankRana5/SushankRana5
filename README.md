@@ -55,7 +55,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40"/>
   </a>
   <a href="https://www.facebook.com/sushank.rana.2025/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook&theme=dark" width="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="40" style="filter: invert(1);" />
   </a>
   <a href="https://instagram.com/sushankrana.mgr" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="40"/>
@@ -64,3 +64,4 @@
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="40"/>
   </a>
 </p>
+
